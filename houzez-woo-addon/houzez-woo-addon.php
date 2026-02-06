@@ -3,7 +3,7 @@
  * Plugin Name: Houzez WooCommerce Addon
  * Plugin URI:  https://wordpress.org/plugins/houzez-woo-addon/
  * Description: Add woocommerce functionality to houzez theme
- * Version:     1.1.1
+ * Version:     1.1.2
  * Author:      Favethemes
  * Author URI:  http://themeforest.net/user/favethemes
  * License:     GPL-2.0+
@@ -57,7 +57,7 @@ if ( ! class_exists( 'Houzez_WooCommerce' ) ) :
         public function __construct() {
 
             $this->plugin_name = 'houzez-woo';
-            $this->version     = '1.0.0';
+            $this->version     = '1.1.2';
 
             // Check if Houzez Theme Functionality installed and activated
             if ( ! did_action( 'houzez_core' ) ) {

@@ -2,8 +2,8 @@
 Contributors: favethemes, waqasriaz
 Tags: woocommerce, real estate, realtor, responsive, widget, houzez, payment gateways
 Requires at least: 6.0
-Tested up to: 6.3
-Stable tag: 1.1.1
+Tested up to: 6.7
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,12 @@ No, this is only for Houzez theme.
 1. Activate the plugin through the \'Plugins\' menu in WordPress
 
 == Changelog ==
+
+= 1.1.2 =
+* Bug fixes and improvements
+
+= 1.1.1 =
+* Bug fixes and improvements
 
 = 1.0.0 =
 * Initial Release
